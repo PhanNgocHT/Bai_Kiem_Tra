@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bai_Kiem_Tra</string>
+    <string name="capnhat">Cập nhật</string>
+    <string name="huy">Hủy</string>
+    <string name="sua">Sửa sinh viên</string>
+    <string name="them">Thêm sinh viên</string>
+</resources>

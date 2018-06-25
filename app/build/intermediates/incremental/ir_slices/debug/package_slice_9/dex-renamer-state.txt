@@ -1,0 +1,4 @@
+#Wed Jun 20 20:06:40 GMT+07:00 2018
+base.0=F\:\\Android\\Bai_Kiem_Tra\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

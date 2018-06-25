@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Android\Bai_Kiem_Tra\app\src\main\assets"><file name="ql_sinhvien.sqlite" path="F:\Android\Bai_Kiem_Tra\app\src\main\assets\ql_sinhvien.sqlite"/></source><source path="F:\Android\Bai_Kiem_Tra\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Android\Bai_Kiem_Tra\app\src\debug\assets"/></dataSet></merger>

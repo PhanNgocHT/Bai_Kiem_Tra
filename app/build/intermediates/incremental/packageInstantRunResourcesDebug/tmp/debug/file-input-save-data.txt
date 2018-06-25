@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 20 19:52:29 GMT+07:00 2018
+0.baseType=DIRECTORY
+0.base=F\:\\Android\\Bai_Kiem_Tra\\app\\build\\intermediates\\assets\\debug
+0.path=ql_sinhvien.sqlite
+0.set=ASSET
+count=1
